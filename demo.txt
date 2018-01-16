@@ -1,1 +1,3 @@
 Adding text directly on the remote using git UI
+
+Added this line from the local copy
