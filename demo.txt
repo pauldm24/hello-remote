@@ -1,0 +1,1 @@
+Adding text directly on the remote using git UI
